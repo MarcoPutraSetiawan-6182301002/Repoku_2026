@@ -1,1 +1,4 @@
 Ini adalah file kedua.
+File ini dibuat untuk praktikum Git.
+File ini diedit langsung melalui GitHub.
+Perubahan dilakukan pada repository remote.
